@@ -1,6 +1,6 @@
 ## Old HTML saved from Totse/Zoklet
 
 
-- [mods_and_admins_1](Tacho reversed a warning I issued. - Zoklet.net_files/Tacho reversed a warning I issued. - Zoklet.net.html).
-- [mods_and_admins_2](Tacho reversed a warning I issued. - Page 2 - Zoklet.net_files/Tacho reversed a warning I issued. - Page 2 - Zoklet.net.html).
+- [mods_and_admins_1](reversed_warning_page1_files/reverse_warning_page1.html).
+- [mods_and_admins_2](reversed_warning_page2_files/reverse_warning_page2.html).
 
